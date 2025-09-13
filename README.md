@@ -1,5 +1,5 @@
 # IMT-222_MarceloNavarro
-# 📘 Sistemas Embebidos
+# Repositorio para la materia de Sistemas Embebidos 1
 
 Este repositorio está dedicado a la materia de **Sistemas Embebidos**, en la cual aprenderemos los fundamentos de los **microcontroladores** y su **programación** para aplicaciones en el mundo real.
 
